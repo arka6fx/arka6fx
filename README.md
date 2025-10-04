@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am a third-year computer engineering student , passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-Check out my [coding portfolio!]( )
+Check out my [coding portfolio!](https://arka6fx.github.io/portfolio-website/)
 
 ## 🎓 About Me
 
