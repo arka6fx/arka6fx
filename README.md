@@ -1,6 +1,6 @@
 # Hi, I'm Arka 👋
 
-I'm a computer science student in Kolkata and the solo founder of **[Yomi AI](https://getyomi.in)**, a free personal AI agent that asks before it acts.
+I'm a computer science student in Kolkata and the founder of **[Yomi AI](https://getyomi.in)**, a free personal AI agent that asks before it acts.
 
 ## What I'm building
 
@@ -9,7 +9,7 @@ I'm a computer science student in Kolkata and the solo founder of **[Yomi AI](ht
 The rule it's built around: reading happens right away, but anything that sends, posts, books or deletes waits for your **Yes**.
 
 - Started in May 2026, launched in July 2026, building in public
-- Built solo, end to end: agent loop, memory, approvals, app connectors, web app and Telegram bot
+- Built end to end: agent loop, memory, approvals, app connectors, web app and Telegram bot
 - Runs entirely on Cloudflare: Workers, Durable Objects, D1, R2, Vectorize, Workers AI and Browser Run
 - Website and docs in 68 languages
 
