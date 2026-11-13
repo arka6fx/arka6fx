@@ -4,12 +4,19 @@ I'm a computer science student in Kolkata and the founder of **[Yomi AI](https:/
 
 ## What I'm building
 
-**[Yomi AI](https://getyomi.in)** reads your mail, plans your day from your calendar, drafts replies and runs scheduled tasks like a morning brief, across 80+ apps (Gmail, Google Calendar, Drive, Notion, Slack, GitHub, Linear and more). You chat with it in the web app or on Telegram, by text, voice note or photo.
+**[Yomi AI](https://getyomi.in)** reads your mail, plans your day from your calendar, drafts replies and runs tasks for you, like a morning brief, across 1,500+ apps (Gmail, Google Calendar, Drive, Notion, Slack, GitHub, Linear and many more).
+
+You talk to it wherever you already are, and it's one conversation everywhere:
+
+- the web app at [getyomi.in](https://getyomi.in) (installs as an app, with notifications)
+- the Android app ([in testing, join here](https://getyomi.in/test))
+- Telegram, Discord, Slack and iMessage (beta)
+- inside Linear and GitHub: mention Yomi on an issue to hand it work
 
 The rule it's built around: reading happens right away, but anything that sends, posts, books or deletes waits for your **Yes**.
 
-- Started in May 2026, launched in July 2026, building in public
-- Built end to end: agent loop, memory, approvals, app connectors, web app and Telegram bot
+- Started in May 2026, launched in July 2026, building in public with a small team
+- Agent loop, memory, approvals, app connectors, web app, phone app and chat bots
 - Runs entirely on Cloudflare: Workers, Durable Objects, D1, R2, Vectorize, Workers AI and Browser Run
 - Website and docs in 68 languages
 
@@ -17,7 +24,7 @@ The rule it's built around: reading happens right away, but anything that sends,
 
 ## Tools I use most
 
-TypeScript · Hono · Next.js · Cloudflare Workers · Drizzle · Claude Code
+TypeScript · Hono · Next.js · React Native (Expo) · Cloudflare Workers · Drizzle · Claude Code
 
 ## Find me
 
