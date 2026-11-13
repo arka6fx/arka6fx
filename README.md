@@ -10,7 +10,8 @@ You talk to it wherever you already are, and it's one conversation everywhere:
 
 - the web app at [getyomi.in](https://getyomi.in) (installs as an app, with notifications)
 - the Android app ([in testing, join here](https://getyomi.in/test))
-- Telegram, Discord, Slack and iMessage (beta)
+- Telegram, Discord and Slack
+- iMessage, in beta with limited spots
 - inside Linear and GitHub: mention Yomi on an issue to hand it work
 
 The rule it's built around: reading happens right away, but anything that sends, posts, books or deletes waits for your **Yes**.
