@@ -1,32 +1,17 @@
-# Hi, I'm Arka 👋
+# Arka Garai
 
-I'm a computer science student in Kolkata and the founder of **[Yomi AI](https://getyomi.in)**, a free personal AI agent that asks before it acts.
+CS student in Kolkata and founder of [Yomi AI](https://getyomi.in).
 
-## What I'm building
+**Yomi AI** is a free personal AI agent that works across your apps and asks before it acts. [getyomi.in](https://getyomi.in)
 
-**[Yomi AI](https://getyomi.in)** reads your mail, plans your day from your calendar, drafts replies and runs tasks for you, like a morning brief, across 1,500+ apps (Gmail, Google Calendar, Drive, Notion, Slack, GitHub, Linear and many more).
+**What I work on:** personal AI agents, agent memory, and computer and browser use.
 
-You talk to it wherever you already are, and it's one conversation everywhere:
+**Stack:** TypeScript · Cloudflare Workers, Durable Objects, D1, Vectorize · Hono · Next.js · Expo
 
-- the web app at [getyomi.in](https://getyomi.in) (installs as an app, with notifications)
-- the Android app ([in testing, join here](https://getyomi.in/test))
-- Telegram, Discord and Slack
-- iMessage, in beta with limited spots
-- inside Linear and GitHub: mention Yomi on an issue to hand it work
+**Open source**
+- [agent-approvals](https://github.com/arka6fx/agent-approvals): ask-before-acting gates for tool-using agents
+- [d1-memory](https://github.com/arka6fx/d1-memory): hybrid agent memory on Cloudflare D1 + Vectorize
+- [agent-tool-errors](https://github.com/arka6fx/agent-tool-errors): sort tool failures into kinds an agent can act on
+- Fix in [vercel/streamdown#761](https://github.com/vercel/streamdown/pull/761): Mermaid diagrams no longer trap page scroll
 
-The rule it's built around: reading happens right away, but anything that sends, posts, books or deletes waits for your **Yes**.
-
-- Started in May 2026, launched in July 2026, building in public with a small team
-- Agent loop, memory, approvals, app connectors, web app, phone app and chat bots
-- Runs entirely on Cloudflare: Workers, Durable Objects, D1, R2, Vectorize, Workers AI and Browser Run
-- Website and docs in 68 languages
-
-**Try it free → [getyomi.in](https://getyomi.in)**
-
-## Tools I use most
-
-TypeScript · Hono · Next.js · React Native (Expo) · Cloudflare Workers · Drizzle · Claude Code
-
-## Find me
-
-[X @arka6ffx](https://x.com/arka6ffx) · [LinkedIn](https://www.linkedin.com/in/arka-garai/) · [Substack](https://arka6fx.substack.com) · [YouTube](https://www.youtube.com/@arka6fx) · [all links](https://linktr.ee/arka6fx) · arka@getyomi.in
+[getyomi.in](https://getyomi.in) · [X](https://x.com/arka6ffx) · [LinkedIn](https://www.linkedin.com/in/arka-garai/)
