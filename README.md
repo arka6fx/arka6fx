@@ -13,5 +13,6 @@ CS student in Kolkata and founder of [Yomi AI](https://getyomi.in).
 - [d1-memory](https://github.com/arka6fx/d1-memory): hybrid agent memory on Cloudflare D1 + Vectorize
 - [agent-tool-errors](https://github.com/arka6fx/agent-tool-errors): sort tool failures into kinds an agent can act on
 - Fix in [vercel/streamdown#761](https://github.com/vercel/streamdown/pull/761): Mermaid diagrams no longer trap page scroll
+- Bug and fix in [drizzle-team/drizzle-orm#6699](https://github.com/drizzle-team/drizzle-orm/issues/6699): `drizzle-kit pull` on SQLite gave every table every CHECK constraint
 
 [getyomi.in](https://getyomi.in) · [X](https://x.com/arka6ffx) · [LinkedIn](https://www.linkedin.com/in/arka-garai/)
